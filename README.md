@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning frontend things
 - 🤔 I’m looking for help with some problems
 - 💬 Ask me about frontend things
-- 📫 How to reach me: 2670602083@qq.com
 - ⚡ Keep going!!!
 
 
